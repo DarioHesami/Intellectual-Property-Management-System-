@@ -1,2 +1,2 @@
 # Intellectual-Property-Management-System-
-Capstone Project
+(Enterprise Blockchain-based Platform - Capstone Project)
